@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@import "_variables";
+@import "_fonts";
+@import "_core";
+
+
+@import "blocks/menu";
+@import "blocks/footer";
+@import "blocks/section1";
+@import "blocks/section2";
+@import "blocks/section3";
+
+@import "_responsive";
